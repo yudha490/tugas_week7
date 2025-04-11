@@ -135,6 +135,7 @@
                             <div id="arehave">Don't have an account? <a href="{{ route('register') }}">Register</a></div>
                         </td>
                     </tr>
+                    <tr></tr>
                 </table>
             </div>
         </form>
